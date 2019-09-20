@@ -1,0 +1,65 @@
+2019-09-08 19:14:09:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 19:14:37:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 19:15:13:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 19:15:46:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 19:15:58:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 20:11:28:PDO, Connection: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2019-09-08 22:45:26:PDO, General, Connection: Data not set.
+2019-09-08 22:45:50:PDO, General, Connection: Data not set.
+2019-09-08 22:46:00:PDO, General, Connection: Data not set.
+2019-09-08 22:47:03:PDO, General, Connection: Data not set.
+2019-09-08 23:00:06:PDO, General, Connection: Data not set.
+2019-09-08 23:00:55:PDO, General, Connection: Data not set.
+2019-09-08 23:04:02:PDO, General, Connection: Data not set.
+2019-09-09 00:17:02:PDO, General, Connection: Data not set.
+2019-09-09 00:17:35:PDO, General, Connection: Data not set.
+2019-09-09 00:17:51:PDO, General, Connection: Data not set.
+2019-09-09 00:19:50:PDO, General, Connection: Data not set.
+2019-09-09 00:24:09:PDO, General, Connection: Data not set.
+2019-09-09 00:24:18:PDO, General, Connection: Data not set.
+2019-09-09 00:25:49:PDO, General, Connection: Data not set.
+2019-09-09 00:26:49:PDO, General, Connection: Data not set.
+2019-09-12 02:18:43:PDO, General, Connection: Data not set.
+2019-09-12 02:19:06:PDO, General, Connection: Data not set.
+2019-09-12 02:19:28:PDO, General, Connection: Data not set.
+2019-09-12 07:07:40:PDO, General, Connection: Data not set.
+2019-09-12 07:10:47:PDO, General, Connection: Data not set.
+2019-09-12 07:14:07:PDO, General, Connection: Data not set.
+2019-09-12 07:14:18:PDO, General, Connection: Data not set.
+2019-09-12 07:14:38:PDO, General, Connection: Data not set.
+2019-09-12 07:21:03:PDO, General, Select: Data not set.
+2019-09-12 07:21:24:PDO, General, Select: Data not set.
+2019-09-12 07:21:48:PDO, General, Select: Data not set.
+2019-09-12 07:22:25:PDO, General, Select: Data not set.
+2019-09-12 07:24:16:PDO, General, Select: Data not set.
+2019-09-12 07:33:08:PDO, General, Select: Data not set.
+2019-09-12 07:33:10:PDO, General, Select: Data not set.
+2019-09-12 07:35:27:PDO, General, Select: Data not set.
+2019-09-12 07:36:18:PDO, General, Select: Data not set.
+2019-09-12 07:36:37:PDO, General, Select: Data not set.
+2019-09-12 07:37:01:PDO, General, Select: Data not set.
+2019-09-12 07:38:04:PDO, General, Select: Data not set.
+2019-09-12 07:38:26:PDO, General, Select: Data not set.
+2019-09-12 07:38:52:PDO, General, Select: Data not set.
+2019-09-12 19:05:41:PDO, General, Select: Data not set.
+2019-09-12 19:06:13:PDO, General, Select: Data not set.
+2019-09-12 19:06:40:PDO, General, Select: Data not set.
+2019-09-12 19:06:58:PDO, General, Select: Data not set.
+2019-09-12 19:07:15:PDO, General, Select: Data not set.
+2019-09-12 19:08:05:PDO, General, Select: Data not set.
+2019-09-12 19:08:13:PDO, General, Select: Data not set.
+2019-09-12 19:08:14:PDO, General, Select: Data not set.
+2019-09-12 19:09:18:PDO, General, Select: Data not set.
+2019-09-12 19:09:37:PDO, General, Select: Data not set.
+2019-09-12 19:10:49:PDO, General, Select: Data not set.
+2019-09-12 19:10:58:PDO, General, Select: Data not set.
+2019-09-12 19:11:49:PDO, General, Select: Data not set.
+2019-09-12 19:12:27:PDO, General, Select: Data not set.
+2019-09-12 20:27:51:PDO, General, Select: Data not set.
+2019-09-12 20:28:10:PDO, General, Select: Data not set.
+2019-09-12 20:29:08:PDO, General, Select: Data not set.
+2019-09-12 20:29:48:PDO, General, Select: Data not set.
+2019-09-12 20:34:44:PDO, General, Select: Data not set.
+2019-09-12 20:37:03:PDO, General, Select: Data not set.
+2019-09-12 20:39:50:PDO, Update: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE email= 'adminone@enews.com' AND status= 'active'' at line 1
+2019-09-12 23:41:08:PDO, Select: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
